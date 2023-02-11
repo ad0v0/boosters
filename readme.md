@@ -11,6 +11,7 @@
 - [Building a stylish Masonry layout using CSS and JavaScrip](https://blog.andri.co/021-building-a-stylish-masonry-layout-using-just-css-and-javascript/)
 - [
 How to Favicon in 2023: Six files that fit most needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
+- [The Guide To Responsive Design In 2023 and Beyond](https://ishadeed.com/article/responsive-design/)
 
 ## Articles
 
