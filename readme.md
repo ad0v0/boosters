@@ -1,5 +1,7 @@
 ## New
 
+- [State of CSS](https://stateofcss.com/en-us/)
+- [State of JavaScript](https://stateofjs.com/en-us/)
 - [New CSS Features in 2022](https://www.smashingmagazine.com/2022/03/new-css-features-2022/)
 
 ## Guides
@@ -16,14 +18,13 @@ How to Favicon in 2023: Six files that fit most needs](https://evilmartians.com/
 ## Articles
 
 - [Writing Logic in CSS](https://iamschulz.com/writing-logic-in-css/)
-
+- [My favourite 3 lines of CSS](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
 
 ## Tutorials
 
-- [Markdown](https://commonmark.org/)
-- [Egghead](https://egghead.io/)
+- [Bringing Letters to Life: Coding a Kinetic SVG Typography Animation](https://tympanus.net/codrops/2023/01/31/bringing-letters-to-life-coding-a-kinetic-svg-typography-animation/)
 
-## Training
+## Trainers
 
 - [Codility](https://app.codility.com)
 - [Codewars](https://www.codewars.com/kata/latest)
@@ -33,9 +34,10 @@ How to Favicon in 2023: Six files that fit most needs](https://evilmartians.com/
 - [CodinGame](https://www.codingame.com/start)
 - [Topcoder](https://www.topcoder.com/)
 - [CodeSignal](https://codesignal.com/)
+- [Markdown](https://commonmark.org/)
+- [Egghead](https://egghead.io/)
 
 ## Random 
 
 - [Roadmaps](https://roadmap.sh/)
-- [Как стать этичным хакером в 2022 году](https://habr.com/ru/post/535918/)
 - [The A11y Project](https://www.a11yproject.com/)
