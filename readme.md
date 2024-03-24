@@ -1,3 +1,72 @@
+## CSS Frameworks
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Material UI](https://mui.com/)
+- [Bulma](https://bulma.io/)
+- [Materialize](https://materializecss.com/)
+- [Foundation](https://get.foundation/)
+- [Pure.css](https://purecss.io/)
+- [Skeleton](http://getskeleton.com/)
+
+## JS Frameworks
+
+- [Angular](https://angular.io/)
+- [React](https://reactjs.org/)
+- [Vue.js](https://vuejs.org/)
+- [Seemple.js](https://seemple.js.org/)
+- [Svelte](https://svelte.dev/)
+- [Solid](https://www.solidjs.com/)
+
+## React
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Remix](https://remix.run/)
+- [Next.js](https://nextjs.org/)
+
+## Data Visualisations:
+
+- [nivo](https://nivo.rocks/)
+- [Recharts](https://recharts.org/)
+- [D3](https://d3js.org/)
+- [Chart.js](https://www.chartjs.org/)
+
+## Ready to use solutions
+
+- [Swiper](https://swiperjs.com/)
+- [Animate.css](https://animate.style/)
+- [Css layout](https://csslayout.io/)
+- [The Vanilla JavaScript Repository](https://vanillalist.top/)
+
+## Builders
+
+- [Vite](https://vitejs.dev/)
+- [Create React App](https://create-react-app.dev/)
+
+## Gulp packages
+
+- [gulp-rename](https://www.npmjs.com/package/gulp-rename)
+- [del](https://www.npmjs.com/package/del)
+- [gulp-css](https://www.npmjs.com/package/gulp-csso)
+- [gulp-svgstore](https://www.npmjs.com/package/gulp-svgstore)
+- [gulp-libsquoosh](https://www.npmjs.com/package/gulp-libsquoosh)
+- [gulp-webp](https://www.npmjs.com/package/gulp-webp)
+- [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
+
+## Code checkers
+
+- [HTML-tree Generator](https://yoksel.github.io/html-tree/)
+- [Markup Validation Service](https://validator.w3.org/)
+
+## Random
+
+- [Lorem.Space](https://lorem.space/) — Image placeholders
+- [Loading url animations](https://lunarfang416.github.io/url-animations/)
+- [PixiJS](https://pixijs.com/)
+- [GSAP](https://greensock.com/gsap/)
+- [Chart.js](https://www.chartjs.org/)
+- [Three.js](https://threejs.org/)
+- [D3.js](https://d3js.org/)
+
 ## New
 
 - [State of CSS](https://stateofcss.com/en-us/)
