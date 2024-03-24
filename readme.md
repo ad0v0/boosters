@@ -110,3 +110,40 @@ How to Favicon in 2023: Six files that fit most needs](https://evilmartians.com/
 
 - [Roadmaps](https://roadmap.sh/)
 - [The A11y Project](https://www.a11yproject.com/)
+
+## Resume / CV
+
+- [Resume.io](https://resume.io/app) – Resume builder. Features: CV templates, cover letters,  job search and other career resources. Not free.
+
+## Work platforms
+
+- [AngelList](https://angel.co/) – website for startups, job search and investing
+- [Upwork](https://www.upwork.com/nx/find-work/best-matches) – for freelancing
+- [Hired](https://hired.com/)
+- [Turing](https://www.turing.com/)
+- [Lemon.io](https://lemon.io/for-developers/)
+- [djinni](https://djinni.co/)
+- [Triplebyte](https://triplebyte.com/)
+- [Work at a Startup](https://www.workatastartup.com/)
+- [Remote OK](https://remoteok.com/)
+- [We work Remotely](https://weworkremotely.com/)
+- [Pitch Me](https://pitchme.co/)
+- [Otta](https://otta.com/)
+- [Flat World](https://flatworld.co/)
+- [Native Teams](https://nativeteams.com/)
+- [X-Team](https://x-team.com/developers/)
+- [Just Join IT](https://justjoin.it/)
+- [Simply Hired](https://www.simplyhired.com/)
+- [Glassdoor](https://www.glassdoor.com/index.htm)
+- [No Fluff Jobs](https://nofluffjobs.com/ua)
+- [Remote](https://remote.co/)
+- [RemoteLeads](https://remoteleads.io/)
+- [Power to Fly](https://powertofly.com/)
+- [Contra](https://contra.com/)
+- [Just Remote](https://justremote.co/)
+
+## Interview Preparation
+
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
+- [Interview Camp](https://interviewcamp.io/)
