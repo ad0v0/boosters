@@ -147,3 +147,30 @@ How to Favicon in 2023: Six files that fit most needs](https://evilmartians.com/
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 - [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
 - [Interview Camp](https://interviewcamp.io/)
+
+## Books
+
+- [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
+
+## Blog 
+
+- [Brad Frost](https://bradfrost.com/) – Web designer
+- [HTMLHell](https://www.htmhell.dev/) – A collection of bad practices in HTML, copied from real websites.
+- [Smashing Magazine](https://www.smashingmagazine.com/) – provides random web design and development related content
+
+## Newsletter
+
+- [Frontend Focus](https://frontendfoc.us/) – A once–weekly roundup of the best front-end news, articles and tutorials
+
+## Checklists
+
+- 
+
+## Statistics
+
+- [State of JS](https://2021.stateofjs.com) – 2021 results
+- [State of CSS](https://2021.stateofcss.com/en-US/) – 2021 results
+
+## Fun
+
+- [Code diseases](https://nicothin.pro/diseases-coder/)
